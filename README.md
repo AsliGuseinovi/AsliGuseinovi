@@ -20,4 +20,10 @@ Currently, I'm learning how to build websites and mobile apps.
 
 ---
 
+## 🌐 Connect with me
+
+[![Instagram](https://img.shields.io/badge/Instagram-@guuseinovy-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/guuseinovy)
+[![Facebook](https://img.shields.io/badge/Facebook-@guuseinov-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/1A4q5vBWLr)
+
+
 I'm at the beginning of my journey, but I'm passionate and committed to learning every day 🚀
